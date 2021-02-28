@@ -1,5 +1,5 @@
 ## Adding Rows
-
+Insert the rows into the created tables (Note, Category, Reminder, User, UserNote, NoteReminder and NoteCategory).
 ```
 INSERT INTO notemanagement.user (user_name, user_added_date, user_password, user_mobile) 
 VALUES ('lari', '2021-02-26', 'xyz', '9089604511');

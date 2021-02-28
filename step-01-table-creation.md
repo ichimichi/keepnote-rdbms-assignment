@@ -1,4 +1,5 @@
 ## Table Creations
+Create the tables for Note, Category, Reminder, User, UserNote, NoteReminder and NoteCategory.
 ```
 CREATE TABLE notemanagement.user (
     user_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
